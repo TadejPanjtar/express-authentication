@@ -2,7 +2,7 @@
 
 Simple authentication app using express, node & passport.
 
-Authenticate locally or through Facebook, Twitter or Google.
+Authenticate through Facebook or Google.
 
 ## Prerequisites 
 

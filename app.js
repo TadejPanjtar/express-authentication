@@ -8,7 +8,6 @@ var bodyParser = require('body-parser');
 var port = process.env.PORT || 3000;
 
 var passport = require('passport');
-var LocalStrategy = require('passport-local').Strategy;
 
 var mongoose = require('mongoose');
 var flash = require('connect-flash');
